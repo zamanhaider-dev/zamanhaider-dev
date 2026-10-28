@@ -4,17 +4,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20,24&height=220&section=header&text=AI%20AGENT%20DEVELOPER&fontSize=42&fontAlignY=38&desc=Architecting%20Autonomous%20Intelligence%20%7C%20Multi-Agent%20Systems%20%7C%20Agentic%20RAG&descAlignY=62&descSize=18&fontColor=ffffff&descColor=00f2fe&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG with Glowing Futuristic Font -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/zamanhaider313">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1200&color=00F2FE&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Autonomous+AI+Agents+%26+Multi-Agent+Workflows;%F0%9F%A7%A0+LLM+Fine-Tuning%2C+RAG+%26+Vector+Databases;%F0%9F%9B%A0%EF%B8%8F+Model+Context+Protocol+(MCP)+%26+Function+Calling;%F0%9F%9A%80+Building+Agents+That+Think%2C+Plan+%26+Execute" alt="Dynamic Role" />
 </a>
 
 <br/><br/>
 
 <!-- Modern Rounded Badges with Glow -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_Zaman Haider" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+<a href="https://twitter.com/YOUR_TWITTER_Zaman Haider" target="_blank">
   <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="mailto:YOUR_EMAIL@example.com">
@@ -118,15 +118,15 @@
 
 ### 📊 GitHub Activity & Command Center
 
-<!-- Note: In URLs replace YOUR_GITHUB_USERNAME with your actual github username so stats appear -->
+<!-- Note: In URLs replace zamanhaider313 with your actual github Zaman Haider so stats appear -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=030712&title_color=00F2FE&icon_color=4FACFE&text_color=9CA3AF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=030712&stroke=00F2FE&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?Zaman Haider=zamanhaider313&show_icons=true&theme=radical&hide_border=true&bg_color=030712&title_color=00F2FE&icon_color=4FACFE&text_color=9CA3AF" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zamanhaider313&theme=radical&hide_border=true&background=030712&stroke=00F2FE&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=030712&title_color=00F2FE&text_color=9CA3AF" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?Zaman Haider=zamanhaider313&layout=compact&theme=radical&hide_border=true&bg_color=030712&title_color=00F2FE&text_color=9CA3AF" width="60%" />
 
 </div>
 
@@ -140,11 +140,11 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_Zaman Haider">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME">
+<a href="https://twitter.com/YOUR_TWITTER_Zaman Haider">
   <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 &nbsp;&nbsp;
