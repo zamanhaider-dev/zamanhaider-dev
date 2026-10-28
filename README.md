@@ -21,12 +21,12 @@
         <i>Passionate AI Engineer crafting self-thinking, goal-oriented autonomous systems and multi-agent swarms.</i>
       </p>
       <div>
-        <a href="https://linkedin.com/in/zamanhaider313" target="_blank">
+        <a href="https://www.linkedin.com/in/zamanhaider-ai/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
         &nbsp;
-        <a href="https://twitter.com/zamanhaider313" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
+        <a href="https://wa.me/zamanhaider.dev" target="_blank">
+          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
         </a>
         &nbsp;
         <a href="mailto:zamanhaider@example.com">
@@ -140,9 +140,31 @@
 <img src="https://github-readme-stats.vercel.app/api?username=zamanhaider313&show_icons=true&theme=radical&hide_border=true&bg_color=030712&title_color=00F2FE&icon_color=4FACFE&text_color=9CA3AF" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zamanhaider313&theme=radical&hide_border=true&background=030712&stroke=00F2FE&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" width="49%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamanhaider313&layout=compact&theme=radical&hide_border=true&bg_color=030712&title_color=00F2FE&text_color=9CA3AF" width="60%" />
+<!-- AI Agent Developer Core Competencies & Language Proficiency -->
+<table width="98%">
+  <tr>
+    <td align="center" style="border: none;">
+      <b>🐍 Python (AI/ML & Agent Systems)</b><br/>
+      <img src="https://geps.dev/progress/95?dangerColor=00F2FE&warningColor=00F2FE&successColor=00F2FE" />
+    </td>
+    <td align="center" style="border: none;">
+      <b>⚡ TypeScript / JavaScript (Node & MCP)</b><br/>
+      <img src="https://geps.dev/progress/88?dangerColor=00F2FE&warningColor=00F2FE&successColor=00F2FE" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none;">
+      <b>🚀 FastAPI / Backend & APIs</b><br/>
+      <img src="https://geps.dev/progress/90?dangerColor=00F2FE&warningColor=00F2FE&successColor=00F2FE" />
+    </td>
+    <td align="center" style="border: none;">
+      <b>🧠 Vector DBs & RAG Architecture</b><br/>
+      <img src="https://geps.dev/progress/92?dangerColor=00F2FE&warningColor=00F2FE&successColor=00F2FE" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -156,12 +178,12 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/zamanhaider313">
+<a href="https://www.linkedin.com/in/zamanhaider-ai/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/zamanhaider313">
-  <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<a href="https://wa.me/zamanhaider.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:zamanhaider@example.com">
