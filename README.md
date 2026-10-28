@@ -186,7 +186,7 @@
   <img src="https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:zamanhaider@example.com">
+<a href="mailto:zamanhaider.ai@gmail.com">
   <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
