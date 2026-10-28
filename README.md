@@ -1,56 +1,73 @@
 <div align="center">
 
-<!-- Ultra Dynamic Cyberpunk Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20,24&height=220&section=header&text=AI%20AGENT%20DEVELOPER&fontSize=42&fontAlignY=38&desc=Architecting%20Autonomous%20Intelligence%20%7C%20Multi-Agent%20Systems%20%7C%20Agentic%20RAG&descAlignY=62&descSize=18&fontColor=ffffff&descColor=00f2fe&animation=fadeIn" width="100%"/>
+<!-- Futuristic Gradient Banner with Zaman Haider Name -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20,24&height=230&section=header&text=ZAMAN%20HAIDER&fontSize=48&fontAlignY=36&desc=Autonomous%20AI%20Agent%20Architect%20%7C%20Multi-Agent%20Systems%20%7C%20RAG&descAlignY=62&descSize=19&fontColor=ffffff&descColor=00f2fe&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG with Glowing Futuristic Font -->
-<a href="https://github.com/zamanhaider313">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1200&color=00F2FE&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Autonomous+AI+Agents+%26+Multi-Agent+Workflows;%F0%9F%A7%A0+LLM+Fine-Tuning%2C+RAG+%26+Vector+Databases;%F0%9F%9B%A0%EF%B8%8F+Model+Context+Protocol+(MCP)+%26+Function+Calling;%F0%9F%9A%80+Building+Agents+That+Think%2C+Plan+%26+Execute" alt="Dynamic Role" />
-</a>
+<br/>
 
-<br/><br/>
+<!-- 3D Boy AI Developer Avatar + Glowing Status -->
+<table>
+  <tr>
+    <td align="center" width="220px" style="border: none;">
+      <img src="./avatar.png" width="190px" style="border-radius: 50%; box-shadow: 0px 0px 25px #00f2fe;" alt="Zaman Haider - AI Developer" />
+      <br/>
+      <sub><b>⚡ Zaman Haider</b></sub>
+    </td>
+    <td style="border: none;" valign="middle">
+      <a href="https://github.com/zamanhaider313">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1200&color=00F2FE&center=false&vCenter=true&width=550&lines=%F0%9F%91%8B+Hi%2C+I'm+Zaman+Haider!;%F0%9F%A4%96+Autonomous+AI+Agents+Developer;%E2%9A%A1+Agentic+Workflows+%26+Multi-Agent+Swarms;%F0%9F%A7%A0+LLM+Fine-Tuning%2C+RAG+%26+Vector+DBs;%F0%9F%9A%80+Building+Next-Gen+Intelligent+Systems" alt="Typing SVG" />
+      </a>
+      <p>
+        <i>Passionate AI Engineer crafting self-thinking, goal-oriented autonomous systems and multi-agent swarms.</i>
+      </p>
+      <div>
+        <a href="https://linkedin.com/in/zamanhaider313" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://twitter.com/zamanhaider313" target="_blank">
+          <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="mailto:zamanhaider@example.com">
+          <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<!-- Modern Rounded Badges with Glow -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_Zaman Haider" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/YOUR_TWITTER_Zaman Haider" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
+<br/>
 
 </div>
 
 ---
 
-### 🚀 Who Am I?
+### 🚀 About Me & Cognitive Architecture
 
 <table>
   <tr>
     <td width="60%">
-      <p>🧠 <b>Specialization:</b> End-to-end <b>Autonomous AI Agents</b>, multi-agent coordination, & production RAG pipelines.</p>
-      <p>⚡ <b>Philosophy:</b> Moving beyond passive LLMs to <b>agents that observe, reason, decide, and take real-world actions</b>.</p>
-      <p>🛠️ <b>Current Mission:</b> Building self-healing agent swarms and context-rich tool orchestration.</p>
-      <p>🎯 <b>Core Focus:</b> LangGraph, CrewAI, AutoGen, Agentic RAG, MCP (Model Context Protocol).</p>
-      <p>💬 <b>Ask me about:</b> Tool calling, vector embeddings, cognitive loops, and LLM orchestration.</p>
+      <p>👨‍💻 <b>Name:</b> Zaman Haider</p>
+      <p>🧠 <b>Role:</b> Autonomous AI Agent & Intelligent Systems Architect</p>
+      <p>⚡ <b>Philosophy:</b> Moving beyond passive chatbots to <b>agents that observe, reason, decompose, and execute actions</b> autonomously.</p>
+      <p>🛠️ <b>Current Mission:</b> Building self-healing multi-agent swarms with Model Context Protocol (MCP) and dynamic tool execution.</p>
+      <p>🎯 <b>Core Focus:</b> LangGraph, CrewAI, AutoGen, Agentic RAG, Memory Systems.</p>
+      <p>💬 <b>Ask me about:</b> Vector search, cognitive loops, sub-agent delegation, and LLM orchestration.</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="AI Agent Core" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="Neural Core" />
     </td>
   </tr>
 </table>
 
 ---
 
-### ⚙️ The AI & Agentic Arsenal
+### ⚙️ The AI & Agentic Stack
 
 <div align="center">
 
-| Domain | Supercharged Stack |
+| Domain | Weapons of Choice |
 | :--- | :--- |
 | **🤖 Agent Frameworks** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=python&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=flat-square&logo=robot&logoColor=white) ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black?style=flat-square&logo=lightning&logoColor=white) |
 | **🧠 LLMs & Models** | ![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude%203.5%20Sonnet-D97706?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini%201.5%20Pro-8E75C2?style=flat-square&logo=google&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama%20(Local%20LLM)-000000?style=flat-square&logo=ollama&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
@@ -61,7 +78,7 @@
 
 ---
 
-### 🧩 Autonomous Agent Loop (How My Agents Work)
+### 🧩 Autonomous Agent Cognitive Loop
 
 <div align="center">
 
@@ -118,15 +135,14 @@
 
 ### 📊 GitHub Activity & Command Center
 
-<!-- Note: In URLs replace zamanhaider313 with your actual github Zaman Haider so stats appear -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?Zaman Haider=zamanhaider313&show_icons=true&theme=radical&hide_border=true&bg_color=030712&title_color=00F2FE&icon_color=4FACFE&text_color=9CA3AF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zamanhaider313&show_icons=true&theme=radical&hide_border=true&bg_color=030712&title_color=00F2FE&icon_color=4FACFE&text_color=9CA3AF" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zamanhaider313&theme=radical&hide_border=true&background=030712&stroke=00F2FE&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?Zaman Haider=zamanhaider313&layout=compact&theme=radical&hide_border=true&bg_color=030712&title_color=00F2FE&text_color=9CA3AF" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamanhaider313&layout=compact&theme=radical&hide_border=true&bg_color=030712&title_color=00F2FE&text_color=9CA3AF" width="60%" />
 
 </div>
 
@@ -140,15 +156,15 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_Zaman Haider">
+<a href="https://linkedin.com/in/zamanhaider313">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/YOUR_TWITTER_Zaman Haider">
+<a href="https://twitter.com/zamanhaider313">
   <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:zamanhaider@example.com">
   <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
